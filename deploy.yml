@@ -5,7 +5,7 @@
   tasks:
     - name: Clone Git Repository
       git:
-        repo: https://github.com/Dineshkumar07dk/kubernetes-poc.git
+        repo: https://github.com/sharonraju143/Project_final.git
         dest: /home/ubuntu/kubernetes
         force: yes
       become: false
